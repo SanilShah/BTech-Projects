@@ -1,0 +1,10 @@
+class test
+{
+    String name = "sanil";
+    String phone  = "12345";
+
+    public static void main(String[] args)
+    {
+        System.out.println(name + phone);
+    }
+}

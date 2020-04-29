@@ -1,0 +1,20 @@
+create table staff(
+staffID int,
+name varchar(30),
+address varchar(20),
+phone varchar(10),
+mail varchar(20),
+join_year varchar(20),
+primary key(staffID) );
+
+create table pending(
+prn int,
+name varchar(30),
+address varchar(20),
+phone varchar(10),
+mail varchar(20),
+gender varchar(20),
+department varchar(20),
+primary key(prn) );
+
+ALTER DATABASE JAVAFORM MODIFY NAME = JavaApplication
