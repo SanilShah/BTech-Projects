@@ -1,0 +1,3 @@
+101	Shubh	kothrud	None	Male	yash@gmail.com	COMPUTER
+103	Kishore	sindhi colony	Male	ksi@gmailc.om	1254634973	MECHANICAL
+109	utpal	portugal	utpal@gmail.com	Male	1913192	MECHANICAL

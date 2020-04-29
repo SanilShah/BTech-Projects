@@ -1,0 +1,5 @@
+103	Kishore	sindhi colony	ksi@gmailc.om	Male	1254634973	MECHANICAL
+109	utpal	portugal	Male	utpal@gmail.com	1913192	MECHANICAL
+102	Yash	kothrud	yash@gmail.com	Female	45461326	MECHANICAL
+103	Kalpu	aaaa	aaa@gmail.com	Male	9862545875	COMPUTER
+104	Atharva	nagpur	arj@gmail.com	Male	3541269750	E&TC
